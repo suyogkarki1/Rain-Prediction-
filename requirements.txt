@@ -1,8 +1,6 @@
 joblib==1.4.2
 numpy==2.0.2
 pandas==2.2.2
-pandas-datareader==0.10.0
-pandas-dq==1.29
 scikit-learn==1.5.1
 streamlit==1.44.1
 plotly==6.9.0
